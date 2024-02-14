@@ -38,7 +38,7 @@ mindful routine.
         <a href="https://github.com/pace-rs/pace/"><img src="https://raw.githubusercontent.com/pace-rs/assets/main/logos/readme_header.png" height="150" /></a>
       </td>
       <td>
-        <a href="https://github.com/pace-rs/pace_core"><img src="https://raw.githubusercontent.com/pace-rs/assets/main/logos/readme_header_core.png" height="150" /></a>
+        <a href="https://github.com/pace-rs/pace/tree/main/crates/core"><img src="https://raw.githubusercontent.com/pace-rs/assets/main/logos/readme_header_core.png" height="150" /></a>
       </td>
     </tr>
     <tr>
