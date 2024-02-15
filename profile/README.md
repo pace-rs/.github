@@ -46,8 +46,8 @@ mindful routine.
       <td><b>pace core</b><br />the library powering pace</td>
     </tr>
     <tr>
-      <td><a href="https://pace-rs.github.io/docs"><img src="https://raw.githubusercontent.com/pace-rs/assets/main/logos/readme_header_docs.png" height="150" /></a></td>
-      <td><a href="https://pace-rs.github.io/dev-docs"><img src="https://raw.githubusercontent.com/pace-rs/assets/main/logos/readme_header_dev.png" height="150" /></a></td>
+      <td><a href="https://pace.cli.rs/docs"><img src="https://raw.githubusercontent.com/pace-rs/assets/main/logos/readme_header_docs.png" height="150" /></a></td>
+      <td><a href="https://pace.cli.rs/dev-docs"><img src="https://raw.githubusercontent.com/pace-rs/assets/main/logos/readme_header_dev.png" height="150" /></a></td>
     </tr>
     <tr>
       <td>User Documentation</td>
@@ -70,13 +70,13 @@ yourself!
 - Contribute fixes or new features via a pull requests!
 
 Please make sure, that you read the
-[contribution guide](https://pace-rs.github.io/docs/contributing_to_pace.html).
+[contribution guide](https://pace.cli.rs/docs/contributing_to_pace.html).
 
 ### 📞 Contact
 
 You can ask questions in the
 [Discussions](https://github.com/pace-rs/discussions) or have a look at the
-[FAQ](https://pace-rs.github.io/docs/FAQ.html).
+[FAQ](https://pace.cli.rs/docs/FAQ.html).
 
 <table>
   <tbody align="center">
