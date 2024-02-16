@@ -61,7 +61,7 @@ mindful routine.
 Tried a pace project and not satisfied? Don't just walk away! You can help:
 
 - You can report issues or suggest new features in our
-  [Github Discussions](https://github.com/pace-rs/discussions) or using the
+  [Github Discussions](https://github.com/orgs/pace-rs/discussions) or using the
   corresponding issue trackers in the repositories down below.
 
 Do you know how to code or got an idea for an improvement? Don't keep it to
@@ -75,7 +75,7 @@ Please make sure, that you read the
 ### 📞 Contact
 
 You can ask questions in the
-[Discussions](https://github.com/pace-rs/discussions) or have a look at the
+[Discussions](https://github.com/orgs/pace-rs/discussions) or have a look at the
 [FAQ](https://pace.cli.rs/docs/FAQ.html).
 
 <table>
@@ -89,7 +89,7 @@ You can ask questions in the
     </tr>
     <tr>
       <td>Discussions</td>
-      <td><a href="https://github.com/pace-rs/discussions">GitHub Discussions</a></td>
+      <td><a href="https://github.com/orgs/pace-rs/discussions">GitHub Discussions</a></td>
     </tr>
   </tbody>
 </table>
