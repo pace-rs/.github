@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/pace-rs/assets/main/logos/readme_header.png" height="300" />
+<img src="https://raw.githubusercontent.com/pace-rs/assets/main/logos/readme_header.png" style="width: 100%; height: auto" />
 </p>
 <p align="center">
 <b>Mindful Time Tracking: Simplify Your Focus and Boost Productivity Effortlessly.</b>
@@ -35,10 +35,10 @@ mindful routine.
   <tbody align="center">
     <tr>
       <td>
-        <a href="https://github.com/pace-rs/pace/"><img src="https://raw.githubusercontent.com/pace-rs/assets/main/logos/readme_header.png" height="150" /></a>
+        <a href="https://github.com/pace-rs/pace/"><img src="https://raw.githubusercontent.com/pace-rs/assets/main/logos/readme_header.png" style="width: 50%; height: auto" /></a>
       </td>
       <td>
-        <a href="https://github.com/pace-rs/pace/tree/main/crates/core"><img src="https://raw.githubusercontent.com/pace-rs/assets/main/logos/readme_header_core.png" height="150" /></a>
+        <a href="https://github.com/pace-rs/pace/tree/main/crates/core"><img src="https://raw.githubusercontent.com/pace-rs/assets/main/logos/readme_header_core.png" style="width: 50%; height: auto" /></a>
       </td>
     </tr>
     <tr>
@@ -46,8 +46,8 @@ mindful routine.
       <td><b>pace core</b><br />the library powering pace</td>
     </tr>
     <tr>
-      <td><a href="https://pace.cli.rs/docs"><img src="https://raw.githubusercontent.com/pace-rs/assets/main/logos/readme_header_docs.png" height="150" /></a></td>
-      <td><a href="https://pace.cli.rs/dev-docs"><img src="https://raw.githubusercontent.com/pace-rs/assets/main/logos/readme_header_dev.png" height="150" /></a></td>
+      <td><a href="https://pace.cli.rs/docs"><img src="https://raw.githubusercontent.com/pace-rs/assets/main/logos/readme_header_docs.png" style="width: 50%; height: auto" /></a></td>
+      <td><a href="https://pace.cli.rs/dev-docs"><img src="https://raw.githubusercontent.com/pace-rs/assets/main/logos/readme_header_dev.png" style="width: 50%; height: auto" /></a></td>
     </tr>
     <tr>
       <td>User Documentation</td>
