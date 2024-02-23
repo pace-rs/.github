@@ -88,6 +88,10 @@ You can ask questions in the
       <td><a href="https://github.com/pace-rs/pace/issues">GitHub Issues</a></td>
     </tr>
     <tr>
+      <td>Discord</td>
+      <td><a href="https://discord.gg/RKSWrAcYdG"><img src="https://dcbadge.vercel.app/api/server/RKSWrAcYdG?style=flat-square" /></a></td>
+    </tr>
+    <tr>
       <td>Discussions</td>
       <td><a href="https://github.com/orgs/pace-rs/discussions">GitHub Discussions</a></td>
     </tr>
